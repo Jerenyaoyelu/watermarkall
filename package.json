@@ -1,6 +1,6 @@
 {
   "name": "watermarkall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript library for watermarking all things like web (future version will support image and video)",
   "main": "index.js",
   "scripts": {

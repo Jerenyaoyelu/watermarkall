@@ -23,7 +23,7 @@ const options = {
 
 // add watermark
 const webWm = new WebWatermark(element); // element is optional, it will mark under the root element if omitted
-webWm.canvasWM(options)
+webWm.addWm(options)
 
 // remove watermark
 webWm.removeWm();
