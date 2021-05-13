@@ -1,7 +1,9 @@
 <div style="text-align: center"><h1>Watermarkall.js</h1><div>
-<div><span>A javascript library for watermarking all things like web</span><div>
+<div><span>A javascript library for watermarking all things like web (a future version will support image/video)</span><div>
 
-> <h5>future version will support image and video</h5>
+<br/>
+
+[![](https://img.shields.io/npm/l/watermarkall)](https://www.npmjs.com/package/watermarkall)
 
 <br/>
 
