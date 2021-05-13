@@ -1,0 +1,15 @@
+{
+  "name": "watermarkall",
+  "version": "1.0.0",
+  "description": "A javascript library for watermarking all things like web (future version will support image and video)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeren Lu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eleven90/reset.css.git"
+  }
+}
