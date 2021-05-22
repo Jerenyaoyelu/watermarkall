@@ -17,14 +17,16 @@
 ### Watermarking a web
 
 ```javascript
-import { WebWatermark } from 'watermarkall';
+import WM from 'watermarkall';
 
 const options = {
   content: 'Hello, Watermarkall!'
 }
 
 // add watermark
-const webWm = new WebWatermark(element); // element is optional, it will mark under the root element if omitted
+// vue项目中使用应放在mounted勾子中
+// react项目中使用应放在ComponentDidMount勾子中
+const webWm = new WM.WebWatermark(element); // element is optional, it will mark under the root element if omitted
 webWm.addWm(options)
 
 // remove watermark
